@@ -1,6 +1,8 @@
 # Data_Structure_Algo_GFG160
-### Cover All the Questions of GFG of DSA 160 questions sheet
-Shell
+### Cover All the Questions topicswise 
+_ platform leetcode, geekforgeeks. _
+
+
 ```
 by Pranav Sharma
 ```
