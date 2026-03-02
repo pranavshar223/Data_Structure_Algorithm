@@ -1,6 +1,6 @@
-# Data_Structure_Algo_GFG160
+# Data Structure Algorithm
 ### Cover All the Questions topicswise 
-_ platform leetcode, geekforgeeks. _
+_platform leetcode, geekforgeeks._
 
 
 ```
